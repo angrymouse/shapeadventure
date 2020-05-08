@@ -1,0 +1,43 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Cordova template
+# gitignore template for the Cordova framework
+# website: https://cordova.apache.org/
+#
+# Recommended template: Node.gitignore
+
+# App platform binaries and built files
+/ShapeAdventure
+
+# Optional to ignore plugin Git clones
+#/plugins
+
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/shapeadventure.iml
+.idea/vcs.xml
+ShapeAdventure/Mice.keystore
+ShapeAdventure/config.xml
+ShapeAdventure/hooks/
+ShapeAdventure/node_modules/
+ShapeAdventure/package-lock.json
+ShapeAdventure/package.json
+ShapeAdventure/platforms/android/.gitignore
+ShapeAdventure/platforms/android/CordovaLib/AndroidManifest.xml
+ShapeAdventure/platforms/android/CordovaLib/build.gradle
+ShapeAdventure/platforms/android/CordovaLib/cordova.gradle
+ShapeAdventure/platforms/android/CordovaLib/project.properties
+ShapeAdventure/platforms/android/CordovaLib/src/
+ShapeAdventure/platforms/android/android.json
+ShapeAdventure/platforms/android/app/build.gradle
+ShapeAdventure/platforms/android/app/src/
+ShapeAdventure/platforms/android/build.gradle
+ShapeAdventure/platforms/android/cordova/
+ShapeAdventure/platforms/android/gradle.properties
+ShapeAdventure/platforms/android/platform_www/
+ShapeAdventure/platforms/android/project.properties
+ShapeAdventure/platforms/android/settings.gradle
+ShapeAdventure/platforms/android/wrapper.gradle
+ShapeAdventure/platforms/browser/
+ShapeAdventure/plugins/
+ShapeAdventure/www/
